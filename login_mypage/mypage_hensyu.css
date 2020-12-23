@@ -1,0 +1,114 @@
+body {
+    background-color: #ebebeb;
+    margin: 0px;
+}
+
+header {
+    border-bottom: 3px solid lightgray;
+    height: 80px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: white
+}
+
+.logout {
+    text-align: right;
+    padding-top: 0px;
+    margin-right: 20px;
+}
+
+header img {
+    height: 55px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+main {
+    border: 3px solid lightgray;
+    width: 700px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.mypage {
+    padding: 10px;
+}
+
+h2 {
+    border-bottom: 3px solid lightseagreen;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.hello {
+    padding: 5px;
+    text-align: left;
+}
+
+.info {
+    text-align: center;
+    height: 180px;
+}
+
+.picture {
+    border: 3px solid lightgray;
+    display: inline-block;
+}
+
+.picture img {
+    width: 100px;
+    height: 100px;
+}
+
+.profile {
+    display: inline-block;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.comments {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-top: 3px solid lightgray;
+    text-align: center;
+}
+
+textarea {
+    width: 90%;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}
+
+.hensyu {
+    text-align: center;
+}
+
+.submit {
+    border: 1px solid gray;
+    background-color: lightseagreen;
+    color: white;
+    padding: 5px 100px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 3px solid lightgray;
+    color: lightgray;
+    padding: 5px;
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    bottom: 0px;
+}
